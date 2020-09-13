@@ -12,7 +12,7 @@ Download this game (2018-2019 -> Sky Rider): [https://mdinfotech.net/examples/Co
 4. Press the up/down arrow to vertically control a character
 5. Apply the gravity to the character
 6. Generate random obstacles and bonus coins on the screen moving horizontally toward the character
-7. Repeat the game loop to update new character and obstacles positions every millisecond
+7. Repeat the game loop to update character's and obstacles' positions every millisecond
 8. Change game mode to "loseMode", draw a score and reset the game if a collision is detected
 
 ## Key skills
