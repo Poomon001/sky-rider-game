@@ -1,5 +1,5 @@
 # Sky Rider Game
-Sky Rider Game is a Java graphic game that was developed from a Space Invaders game built by my programming teacher. It means to challenge players to dodge all obstacles to achieve the highest miles.
+Sky Rider Game is a Java graphic game that was developed from a Space Invaders game built by my programming teacher. It means to challenge players to dodge all obstacles to beat the highest score.
 
 My team of three developers was addicted to the Jetpack Joyride game. We were inspired to develop a similar game but in our version when we were in high school. 
 
