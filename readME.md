@@ -31,18 +31,18 @@ This is the first programming project that I worked in a team to complete. In th
 ## Example of HomePage, Instruction, gameMode, pauseMode and LoseMode
 
 ### Home Page
-<img src="images/HomePage.jpg" width=400>
+<img src="images/HomePage.jpg" height=400>
 
 ### Instruction
-<img src="images/Instruction.jpg" width=400>
+<img src="images/Instruction.jpg" height=400>
 
 ### Game Mode
-<img src="images/gameMode.jpg" width=400>
+<img src="images/gameMode.jpg" height=400>
 
 ### Pause Mode
-<img src="images/pauseMode.jpg" width=400>
+<img src="images/pauseMode.jpg" height=400>
 
 ### Lose Mode
-<img src="images/loseMode.jpg" width=400>
+<img src="images/loseMode.jpg" height=400>
 
     
