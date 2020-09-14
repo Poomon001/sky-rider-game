@@ -9,7 +9,7 @@ My team of three developers was addicted to the Jetpack Joyride game. We were in
 1. Call a game loop to draw a home page
 2. Press 1 to change game state to "gameMode" to start the game
 3. Repeat the game loop to draw a character, background and obstacles
-4. Press the up/down arrow to vertically control a character
+4. Press the Spacebar to vertically control a character
 5. Apply the gravity to the character
 6. Generate random obstacles and bonus coins on the screen moving horizontally toward the character
 7. Repeat the game loop to update character's and obstacles' positions every millisecond
