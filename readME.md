@@ -3,7 +3,7 @@ Sky Rider Game is a Java graphic game that was developed from a Space Invaders g
 
 My team of three developers was addicted to the Jetpack Joyride game. We were inspired to develop a similar game but in our version when we were in high school. 
 
-Download this game (2018-2019 -> Sky Rider): [https://mdinfotech.net/examples/Computer%20Science%2012/Games/](https://mdinfotech.net/examples/Computer%20Science%2012/Games/) 
+**Download this game (2018-2019 -> Sky Rider)**: [https://mdinfotech.net/examples/Computer%20Science%2012/Games/](https://mdinfotech.net/examples/Computer%20Science%2012/Games/) 
 
 ## How does Sky Rider game work?
 1. Call a game loop to draw a home page
